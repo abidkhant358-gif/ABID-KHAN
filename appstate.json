@@ -1,7 +1,128 @@
-....
-
-
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
-
-
-.....
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261586163268637%22%3A%22NZB6pPKx%22%2C%2261582193721495%22%3A%225pRfmJ3x%22%2C%2261587512943406%22%3A%22S6KpmAT6%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-02-12T07:55:04.046Z",
+        "lastAccessed": "2026-02-12T07:55:04.046Z"
+    },
+    {
+        "key": "datr",
+        "value": "h8GDaeV5UqlNgqSdhuMV_NB9",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-12T07:55:04.046Z",
+        "lastAccessed": "2026-02-12T07:55:04.046Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-12T07:55:04.046Z",
+        "lastAccessed": "2026-02-12T07:55:04.046Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-12T07:55:04.046Z",
+        "lastAccessed": "2026-02-12T07:55:04.046Z"
+    },
+    {
+        "key": "sb",
+        "value": "ncGDadcavHzEaZIkkkjWUooa",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-12T07:55:04.046Z",
+        "lastAccessed": "2026-02-12T07:55:04.046Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B774x393x2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-12T07:55:04.046Z",
+        "lastAccessed": "2026-02-12T07:55:04.046Z"
+    },
+    {
+        "key": "pas",
+        "value": "61586163268637%3AXXZXD5RGJf%2C61586405920411%3A8Gb6hEoZdU%2C61582193721495%3AwswGmrRpBB%2C61587512943406%3AwDZOSksC8V",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-12T07:55:04.046Z",
+        "lastAccessed": "2026-02-12T07:55:04.046Z"
+    },
+    {
+        "key": "oo",
+        "value": "v1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-12T07:55:04.046Z",
+        "lastAccessed": "2026-02-12T07:55:04.046Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-12T07:55:04.046Z",
+        "lastAccessed": "2026-02-12T07:55:04.046Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61587512943406",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-12T07:55:04.046Z",
+        "lastAccessed": "2026-02-12T07:55:04.046Z"
+    },
+    {
+        "key": "xs",
+        "value": "19%3A5EMo-Lkh404qng%3A2%3A1770790648%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-12T07:55:04.046Z",
+        "lastAccessed": "2026-02-12T07:55:04.046Z"
+    },
+    {
+        "key": "fr",
+        "value": "032BaUYliivdVOVk6.AWevN55JynstQl1JcYu_pryaOm605vRwY1J8Db2oKWelcnzWqzM.Bpi4M7..AAA.0.0.BpjYdO.AWdjK2lRKit1xn9yDP7A6M_L3vw",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-12T07:55:04.046Z",
+        "lastAccessed": "2026-02-12T07:55:04.046Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101218884%3BT%3A29514714",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-12T07:55:04.046Z",
+        "lastAccessed": "2026-02-12T07:55:04.046Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3083%3Btimestamp%3A1770882894",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-12T07:55:04.046Z",
+        "lastAccessed": "2026-02-12T07:55:04.046Z"
+    }
+]
